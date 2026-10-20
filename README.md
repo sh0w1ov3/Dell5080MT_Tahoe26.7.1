@@ -3,13 +3,11 @@
 
 拨除了nvme m.2硬盘，用的SATA的KINGSTON固态硬盘。
 
-BIOS的设置参考常见配置，开启AHCI、关闭SecureBoot
-
-可能比较重要的参数 Setting: CFG Lock, Option: Enabled, Value: 0x1
+BIOS的设置参考常见配置，开启AHCI、关闭SecureBoot、启用Block Sleep
 
 食用请注意版本差异
 
-Dell 5080MT + Dell Radeon RX640 4 GB + macOS Tahoe 26.7.1 和 OpenCore 1.0.8 
+Dell 5080MT i5-10500 + Dell Radeon RX640 4 GB + macOS Tahoe 26.7.1 和 OpenCore 1.0.8 
 
 <img width="392" height="616" alt="截屏2026-10-19 15 40 11" src="https://github.com/user-attachments/assets/99f6b092-c102-4b2c-b61c-8ac219389a6e" />
 <img width="1022" height="714" alt="截屏2026-10-19 15 40 49" src="https://github.com/user-attachments/assets/e02bc1a7-544e-41a6-b698-a48a839b8416" />
