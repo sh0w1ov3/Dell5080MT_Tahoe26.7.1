@@ -1,8 +1,13 @@
-BIOS的设置参考常见配置
+注意：
+本EFI不含蓝牙、wifi、睡眠
 
-这个参数可能比较重要 Setting: CFG Lock, Option: Enabled, Value: 0x1
+拨除了nvme m.2硬盘，用的SATA的KINGSTON固态硬盘。
 
-如果尝试请优先使用匹配的版本
+BIOS的设置参考常见配置，开启AHCI、关闭SecureBoot
+
+可能比较重要的参数 Setting: CFG Lock, Option: Enabled, Value: 0x1
+
+食用请注意版本差异
 
 Dell 5080MT + Dell Radeon RX640 4 GB + macOS Tahoe 26.7.1 和 OpenCore 1.0.8 
 
