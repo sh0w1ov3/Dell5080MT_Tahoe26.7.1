@@ -1,9 +1,13 @@
 注意：
-本EFI不含蓝牙、wifi、睡眠
+本EFI不含蓝牙、wifi、睡眠配置
 
-拨除了nvme m.2硬盘，用的SATA的KINGSTON固态硬盘。
+拨除了m.2硬盘，不然会重启异常，改用的SATA的KINGSTON固态硬盘。
 
-BIOS的设置参考常见配置，开启AHCI、关闭SecureBoot、启用Block Sleep
+BIOS的设置参考常见配置
+
+System Configuration-SATA Operation-勾选☑️AHCI、
+Secure Boot-Secure Boot Enable-停用、
+Power Management-勾选☑️Block Sleep
 
 食用请注意版本差异
 
