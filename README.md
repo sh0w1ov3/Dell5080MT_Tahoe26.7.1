@@ -5,16 +5,15 @@
 
 BIOS的设置参考常见配置
 
-System Configuration-SATA Operation-勾选☑️AHCI
+System Configuration--SATA Operation--勾选☑️AHCI
 
-Secure Boot-Secure Boot Enable-停用
+Secure Boot--去勾Secure Boot Enable
 
-Power Management-勾选☑️Block Sleep
+Power Management--勾选☑️Block Sleep
 
 食用时请注意版本差异
 
 Dell 5080MT i5-10500 + Dell Radeon RX640 4 GB + macOS Tahoe 26.7.1 和 OpenCore 1.0.8 
+<img width="835" height="1072" alt="截屏2026-10-22 下午4 50 31" src="https://github.com/user-attachments/assets/093c91eb-0d25-4464-b9ae-3d97f4952e60" />
+<img width="835" height="1072" alt="截屏2026-10-22 下午4 52 03" src="https://github.com/user-attachments/assets/4b95f2c6-104b-4101-8e17-2a5cf1c7e21b" />
 
-<img width="392" height="616" alt="截屏2026-10-19 15 40 11" src="https://github.com/user-attachments/assets/99f6b092-c102-4b2c-b61c-8ac219389a6e" />
-<img width="1022" height="714" alt="截屏2026-10-19 15 40 49" src="https://github.com/user-attachments/assets/e02bc1a7-544e-41a6-b698-a48a839b8416" />
-<img width="1022" height="714" alt="截屏2026-10-19 15 41 24" src="https://github.com/user-attachments/assets/f01b6680-7045-4ea8-a220-bc0a8c0215ab" />
